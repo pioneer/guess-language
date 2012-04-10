@@ -1,0 +1,1 @@
+Language detection library http://code.google.com/p/guess-language/, with small fix that removes one slow regex call.
